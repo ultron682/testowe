@@ -5,5 +5,9 @@ namespace ConsoleApp20 {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
         }
+
+        void siema() {
+        
+        }
     }
 }
