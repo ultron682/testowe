@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "asfCP+RsZOKhl26/rfpkMyOQFwmWM/zJjhoNHUVHNkAEo1p8ApEALgbNnwpoSjh//2NE7Gc4bkRghExKWppBew==",
+  "dgSpecHash": "tIo2kzW8sRT4mMnpCjZOpP4wrcixcZAzcg4d3z7cEmphcOOMpzGYd5zMk6SRHWU1c7KuWG2Xvb98QzMQ4HGwYQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\test\\testowe\\ConsoleApp20\\ConsoleApp20.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\GitDesktop\\testowe\\ConsoleApp20\\ConsoleApp20.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eryks\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\eryks\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\eryks\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\eryks\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
